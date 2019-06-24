@@ -1,5 +1,13 @@
 Just some personal bookmarks in a handy place for future reference.
 
+# React
+
+## React Native
+
+### Responsive components
+
+https://github.com/vitalets/react-native-extended-stylesheet#rem-units
+
 # Computer Science
 
 [video series](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
