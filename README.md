@@ -4,7 +4,9 @@ Just some personal bookmarks in a handy place for future reference.
 
 ## React Native
 
-### Responsive components
+### Responsive
+
+Hooks: https://github.com/pdeona/responsive-layout-hooks/tree/master/src
 
 https://github.com/vitalets/react-native-extended-stylesheet#rem-units
 
